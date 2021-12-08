@@ -1,15 +1,13 @@
-<h3 align="center"> Hola, I'm Diya Karmakar 👋</h3>
-<h3 align="center">An ECE undergrad who loves exploring new fields and is seeking to leverage design and development skills that aids in building engaging products with high quality user experience.</h3>
+<h3 align="left-align"> Hola, I'm Diya Karmakar 👋</h3>
+<h4 align="left-align">An ECE undergrad who loves exploring new fields and is seeking to leverage design and development skills that aids in building engaging products with high quality user experience.</h4>
 </br>
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=diyakarmakar779&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img align="left-align" src = "https://github-readme-stats.vercel.app/api?username=diyakarmakar779&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 - 🌱 I’m currently learning Everything :rofl:.
 - 💬 Ask me about UX design, or any tech related stuff.
-- 📫 How to reach me:  [Linkedin - @diyakarmakar](www.linkedin.com/in/diya-karmakar),  [Twitter - @diyakarmakar18](https://twitter.com/Diyakarmakar18).
+- 📫 How to reach me: [diyakarmakar668@gmail.com](mailto:diyakarmakar668@gmail.com)
 - 😄 Pronouns: she/her
 - :zap: Fun fact: I love reading books related to psychology and Astronomy :telescope:
-
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
