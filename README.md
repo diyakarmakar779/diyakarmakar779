@@ -1,4 +1,4 @@
-### Hey, I'm Diya 👋
+### Hey, I'm Diya
 
 Data Engineer at **Lowe's India** — building scalable data pipelines, distributed backend systems, 
 and the infrastructure that turns raw data into reliable, usable platforms.
@@ -8,16 +8,16 @@ McKinsey Next Gen Woman Leader APAC 2023
 
 ---
 
-### 👩‍💻 What I work on
+### What I work on
 
-- 🔧 Designing distributed backend systems with **Spark, RabbitMQ, Airflow, Docker**
-- 🐍 Backend services and APIs with **Python, Flask, FastAPI**
-- 🤖 Exploring AI-focused data engineering — RAG pipelines, LangChain, vector databases
-- 🗺️ Recently built **Travel Copilot** — an AI system using MCP server-client orchestration
+- Designing distributed backend systems with **Spark, RabbitMQ, Airflow, Docker**
+- Backend services and APIs with **Python, Flask, FastAPI**
+- Exploring AI-focused data engineering — RAG pipelines, LangChain, vector databases
+- Recently built **Travel Copilot** — an AI system using MCP server-client orchestration
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Data & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,16 +40,10 @@ McKinsey Next Gen Woman Leader APAC 2023
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
-- 🥇 **Winner** — Smart India Hackathon 2023
-- 🌏 **McKinsey Next Generation Woman Leader** — APAC 2023
-- 🎨 **AIR 1** — Visual Design Hiring Challenge, Eminence Robotics 2022
-- 💡 **Selected mentee** — Microsoft Engage 2022
+- **Winner** — Smart India Hackathon 2023
+- **McKinsey Next Generation Woman Leader** — APAC 2023
+- **AIR 1** — Visual Design Hiring Challenge, Eminence Robotics 2022
+- **Selected mentee** — Microsoft Engage 2022
 
----
-
-### 📬 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-karmakar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diyakarmakar668@gmail.com)
