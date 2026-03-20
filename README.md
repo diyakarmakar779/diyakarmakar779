@@ -37,15 +37,6 @@ McKinsey Next Gen Woman Leader APAC 2023
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Travel Copilot](https://github.com/diyakarmakar779/travel-copilot) | AI system for itinerary generation using MCP orchestration & async workflows | Python, MCP, LangChain |
-| [FloodSafeGIS](https://github.com/diyakarmakar779/FloodSafeGIS) | Satellite-based flood prediction — 95% faster than HECRAS, 88%+ dice coefficient | ML, GIS, Python |
-| [Pelicula](https://github.com/diyakarmakar779/Pelicula) | Content-based movie recommender system (Microsoft Engage 2022) | Python, scikit-learn |
 
 ---
 
@@ -61,8 +52,4 @@ McKinsey Next Gen Woman Leader APAC 2023
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diya-karmakar)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Diyakarmakar18)
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/diya_karmakar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diyakarmakar668@gmail.com)
-
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyakarmakar779&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919)
